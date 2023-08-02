@@ -1,2 +1,5 @@
 #!/bin/bash
-1-listit contains 0-current_working_directory 1-listit README.mid
+1-listit contains
+0-current_working_directory
+1-listit
+README.mid
