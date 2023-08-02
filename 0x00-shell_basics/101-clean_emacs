@@ -1,2 +1,2 @@
 #!/bin/bash
-crm *_
+rm *~
